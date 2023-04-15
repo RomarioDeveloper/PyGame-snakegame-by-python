@@ -1,11 +1,12 @@
 # PyGame-snakegame-by-python
- #PyGame - Snake Game
+ # PyGame - Snake Game
  
  ![image](https://user-images.githubusercontent.com/85926208/232231438-bc16b606-1e57-442c-a988-bb5ee4f365cf.png)
 
  
  **For the game to work you need to download library for pygame**
- **1)PyGame
+ 
+ **1)PyGame**
  
  ![image](https://user-images.githubusercontent.com/85926208/232231498-e46451ea-bd8e-46eb-bee6-6ac4b1d414ae.png)
 
